@@ -10,9 +10,7 @@
   <img align="right" src="https://profile-counter.glitch.me/money280497/count.svg" alt="Profile visitor" />
 </a>
 
-<p> Check this out : 
-<a href="https://www.fastfol.io/mohitmehta/" target="_blank">
-</p>
+<p href="https://www.fastfol.io/mohitmehta/" target="_blank">Profile</p>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
