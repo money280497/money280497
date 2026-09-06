@@ -1,84 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4305BA,100:7C3AED&height=220&section=header&text=Mohit%20Mehta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Consultant%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4305BA,100:7C3AED&height=200&section=header&text=Mohit%20Mehta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Consultant%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+agentic+AI+systems+that+think%2C+plan+%26+act;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+AWS+Bedrock+%C2%B7+FastAPI;7%2B+years+turning+ideas+into+scalable+platforms" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=8%2B+years+building+scalable+web+%26+AI-driven+platforms;LangGraph+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+AWS+Bedrock+%C2%B7+FastAPI;Turning+agentic+AI+concepts+into+production+systems" alt="Typing SVG" />
 
 <a href="https://mohit-mehta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4305BA?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/📍_Gurugram,_India-7C3AED?style=for-the-badge&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=money280497&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<a href="mailto:mohitmehta28041997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/📍_Gurugram,_India-7C3AED?style=for-the-badge&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 🤖 `whoami`
+## 🤖 About Me
 
-```typescript
-const mohit = {
-  role: "Senior Consultant & Agentic AI Engineer",
-  experience: "7+ years",
-  currentFocus: "designing multi-agent LLM systems that reason, retrieve & act",
-  stack: ["LangChain", "LangGraph", "RAG pipelines", "AWS Bedrock", "FastAPI"],
-  hobbies: ["cracking algorithmic puzzles", "sports", "video games"],
-  motto: "ship intelligent systems, not just software",
-};
-```
-
-<br/>
-
-## ⚡ What I'm building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Agentic Workflows
-Designing autonomous, multi-step LLM agents that plan, retrieve context via RAG, and take real actions — moving past single-shot prompting into systems that reason over tools and memory.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Scalable Platforms
-7+ years architecting full-stack web platforms — from React/Next.js frontends to FastAPI backends — built to scale in production, not just in demos.
-
-</td>
-</tr>
-</table>
+- 🔭 Full-stack engineer with **8+ years** architecting scalable web platforms & AI-driven systems
+- 🧠 Currently building **agentic AI / LLM-powered platforms** — LangGraph, RAG, MCP, AWS Bedrock, Claude
+- 🎯 Senior team member driving architecture, mentorship, and adoption of new tech
+- ⚡ Thrive on solving complex problems and shipping industry-leading solutions
 
 <br/>
 
 ## 🛠️ Tech Arsenal
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,js,ts,go,php,bash" alt="Python, JavaScript, TypeScript, Go, PHP, Bash" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" /></p>
-
 **AI / Agentic Engineering**
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="48" alt="LangChain" />&nbsp;
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="48" alt="LangGraph" />&nbsp;
-<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=plastic&logo=amazonaws&logoColor=white" height="48" alt="AWS Bedrock" />&nbsp;
-<img src="https://img.shields.io/badge/RAG-8E3FFF?style=plastic&logo=databricks&logoColor=white" height="48" alt="RAG" />&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-000000?style=plastic&logo=openai&logoColor=white" height="48" alt="OpenAI" />&nbsp;
-<img src="https://img.shields.io/badge/Claude%20Code-D97706?style=plastic&logo=anthropic&logoColor=white" height="48" alt="Claude Code" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=plastic&logo=amazonaws&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/RAG-8E3FFF?style=plastic&logo=databricks&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/MCP-000000?style=plastic&logo=anthropic&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/Vector%20DB-6E56CF?style=plastic&logo=qdrant&logoColor=white" height="46" />
 </p>
 
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=py,js,ts,go,php,bash" /></p>
+
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" /></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,graphql,redux" /></p>
 
-**Backend & APIs**
-<p><img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" height="48" alt="FastAPI" />&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></p>
-
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="MySQL, PostgreSQL, Redis" />&nbsp;<img src="https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white" height="48" alt="Neo4j" /></p>
+**Backend & Data**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" height="46" />
+<img src="https://skillicons.dev/icons?i=express,mysql,mongodb" />
+</p>
 
 **DevOps & Cloud**
-<p><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare,nginx" alt="Docker, GitHub Actions, AWS, Cloudflare, Nginx" />&nbsp;<img src="https://img.shields.io/badge/Coolify-8E3FFF?style=plastic&logo=coolify&logoColor=white" height="48" alt="Coolify" /></p>
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins,grafana" /></p>
 
-**Work Environment**
-<p><img src="https://skillicons.dev/icons?i=neovim,git" alt="Neovim, Git" />&nbsp;<img src="https://img.shields.io/badge/Ghostty-1C1B1F?style=plastic&logo=ghostty&logoColor=white" height="48" alt="Ghostty" />&nbsp;<img src="https://img.shields.io/badge/Codex-000000?style=plastic&logo=openai&logoColor=white" height="48" alt="Codex" />&nbsp;<img src="https://img.shields.io/badge/Claude%20Code-D97706?style=plastic&logo=anthropic&logoColor=white" height="48" alt="Claude Code" /></p>
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,neovim" /></p>
 
 <br/>
 
@@ -87,49 +60,50 @@ Designing autonomous, multi-step LLM agents that plan, retrieve context via RAG,
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=money280497&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=money280497&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" width="35%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=money280497&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7" width="60%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=money280497&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff" width="90%" />
-
 </div>
 
 <br/>
 
-## 🌱 Currently
+## 🛡️ Experience
 
-```yaml
-building: Agentic Workflows — autonomous multi-agent LLM systems
-exploring: [finance & trading systems, research-driven analysis]
-playing: sports, video games, algorithmic puzzles
-listening: 🎵 check my live status below
-```
+**Senior Consultant @ Equal Experts** · Gurugram · *Apr 2026 – Present*
+- Client-facing consultant delivering scalable, high-impact products
+- Built an agentic AI engineering assistant using **LangGraph, RAG, MCP, AWS Bedrock** for code analysis & automated workflows
+
+**Senior Software Engineer @ Coupa Software** · Pune · *Jan 2025 – Apr 2026*
+- Built the Sentinel UI platform (**Streamlit + FastAPI**) for AI agent workflows & PR analysis
+- Integrated backend services with AWS Bedrock, GitHub, Jenkins, Confluence
+- Delivered DB-driven features with MySQL, SQLAlchemy, Alembic; improved CI/CD with Docker, Helm, Kubernetes
+
+**Senior Software Engineer @ Paytm (One97 Communications)** · Noida · *Apr 2022 – Dec 2024*
+- Led FASTag feature for **20M+ users**; managed mini-app with 100–200K daily users
+- Drove web-vitals improvements & multi-language support
+- Mentored a team of developers across full project lifecycle
+
+**Software Engineer @ Trantor Software** · Gurgaon · *Apr 2021 – Mar 2022*
+- Built order/label management UI; implemented Micro Frontend architecture (Module Federation + Webpack)
+- Set up code quality architecture: pre-commit hooks, ESLint, Prettier, SonarQube
+
+**Associate Software Engineer @ Aurigo Software Technologies** · Bengaluru · *Jul 2018 – Mar 2021*
+- Developed features for Aurigo Masterworks Cloud (capital infrastructure planning platform)
+- Added localization support, custom code editor, and ad-hoc reporting
 
 <br/>
 
-## 🎵 Spotify Now Playing
+## 💻 Work
 
-<div align="center">
-<!-- Powered by https://github.com/kittinan/spotify-github-profile — replace USERNAME with your configured value -->
-<img src="https://novatorem-mohitmehta.vercel.app/api/spotify" width="500" alt="Spotify Now Playing" />
-</div>
+**Jira Dashboard** *(2024)* — Centralized, customizable hub for real-time project tracking across teams
 
 <br/>
 
+## 📭 Contact
+
+- 📧 **mohitmehta28041997@gmail.com**
+- 📍 Based in Gurugram, India
+- 🎯 Interests: coding, calisthenics, gymming, swimming, cricket, football, esports, music
+
 <div align="center">
-
-### 💬 Let's connect
-
-<a href="https://mohit-mehta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4305BA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4305BA&height=100&section=footer" width="100%" />
 
