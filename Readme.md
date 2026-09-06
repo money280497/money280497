@@ -28,8 +28,6 @@ const mohit = {
 
 ## 🛠️ Tech Arsenal
 
-## 🧩 Agentic AI Skills
-
 **Orchestration & Frameworks**
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28" />
