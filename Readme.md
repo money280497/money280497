@@ -1,12 +1,11 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4305BA,100:7C3AED&height=200&section=header&text=Mohit%20Mehta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Consultant%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=8%2B+years+building+scalable+web+%26+AI-driven+platforms;LangGraph+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+AWS+Bedrock+%C2%B7+FastAPI" alt="Typing SVG" />
 
 <a href="https://mohit-mehta-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4305BA?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohit-mehta-04a12b12b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/📍_Gurugram,_India-7C3AED?style=for-the-badge&logoColor=white" />
+<a href="https://www.linkedin.com/in/mohit-mehta-04a12b12b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
 
@@ -68,7 +67,8 @@ const mohit = {
 </p>
 <div align="center">
 <br/>
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4305BA&height=100&section=footer" width="100%" />
 
 </div>
+](url)
