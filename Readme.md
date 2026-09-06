@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4305BA,100:7C3AED&height=200&section=header&text=Mohit%20Mehta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Consultant%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
