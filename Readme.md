@@ -12,28 +12,60 @@
 
 <br/>
 
-## 🤖 About Me
+## 🤖 `whoami`
 
-- 🔭 Full-stack engineer with **8+ years** experience, now focused on **agentic AI / LLM-powered platforms**
-- 🧠 Building with **LangGraph, RAG, MCP, AWS Bedrock, Claude** — turning agentic AI concepts into production systems
-- 🎯 Senior team member driving architecture, mentorship, and adoption of AI engineering practices
-- ⚡ Thrive on solving complex problems and shipping industry-leading AI-driven solutions
+```typescript
+const mohit = {
+  role: "Senior Consultant & Agentic AI Engineer",
+  experience: "8+ years",
+  currentFocus: "designing multi-agent LLM systems that reason, retrieve & act",
+  stack: ["LangChain", "LangGraph", "RAG pipelines", "AWS Bedrock", "FastAPI"],
+  hobbies: ["cracking algorithmic puzzles", "sports", "video games"],
+  motto: "ship intelligent systems, not just software",
+};
+```
 
 <br/>
 
 ## 🛠️ Tech Arsenal
 
-**AI / Agentic Engineering**
+## 🧩 Agentic AI Skills
+
+**Orchestration & Frameworks**
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="46" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=plastic&logo=langchain&logoColor=white" height="46" />
-<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=plastic&logo=amazonaws&logoColor=white" height="46" />
-<img src="https://img.shields.io/badge/RAG-8E3FFF?style=plastic&logo=databricks&logoColor=white" height="46" />
-<img src="https://img.shields.io/badge/MCP-000000?style=plastic&logo=anthropic&logoColor=white" height="46" />
-<img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" height="46" />
-<img src="https://img.shields.io/badge/Vector%20DB-6E56CF?style=plastic&logo=qdrant&logoColor=white" height="46" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="28" />
 </p>
 
+**RAG & Retrieval**
+<p>
+<img src="https://img.shields.io/badge/RAG-8E3FFF?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Vector%20DB-8E3FFF?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Embeddings-8E3FFF?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Chunking-8E3FFF?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Query%20Transformation-8E3FFF?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Metadata%20Filtering-8E3FFF?style=flat-square" height="28" />
+</p>
+
+**Agentic Systems**
+<p>
+<img src="https://img.shields.io/badge/Function%2FTool%20Calling-4305BA?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Planner--Executor%20Workflows-4305BA?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-4305BA?style=flat-square" height="28" />
+</p>
+
+**Model Fine-Tuning**
+<p>
+<img src="https://img.shields.io/badge/LoRA%2FQLoRA-A855F7?style=flat-square" height="28" />
+</p>
+
+**LLM Ops & Safety**
+<p>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-D97706?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/AI%20Guardrails-D97706?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/Secure%20LLM%20Applications-D97706?style=flat-square" height="28" />
+</p>
 <div align="center">
 <br/>
 
