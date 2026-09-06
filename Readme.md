@@ -71,4 +71,3 @@ const mohit = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4305BA&height=100&section=footer" width="100%" />
 
 </div>
-](url)
